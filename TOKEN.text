@@ -1,0 +1,25 @@
+:root {
+  --clay:  #1a1a0e;
+  --moss:  #2e4a2e;
+  --lime:  #b5e550;
+  --sun:   #f5c542;
+  --heat:  #e84f2d;
+  --sky:   #a8d8ea;
+  --cream: #f4f0e1;
+
+  --ff-head:  'Bebas Neue', sans-serif;
+  --ff-serif: 'DM Serif Display', serif;
+  --ff-mono:  'IBM Plex Mono', monospace;
+  --ff-body:  'Karla', sans-serif;
+
+  --nav-h: 70px;
+}
+
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Mono:wght@400;600&family=Karla:wght@300;400;600&display=swap" rel="stylesheet" />
+
+
+background: rgba(26, 26, 14, 0.85);
+backdrop-filter: blur(16px);
+border-bottom: 1px solid rgba(181, 229, 80, 0.15);
+
+🌿
